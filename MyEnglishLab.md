@@ -10,7 +10,7 @@ MyEnglishLabへの登録方法です。通信量に制限のある人は、こ�
 https://english-dashboard.pearson.com/ 
 
 ### 2. 「Create an account（アカウントを作成する）」のリンクをクリックします。
-
+!(MEL_01.png)
 スマートフォン版の場合は、スクロールしていき、 リンクをタップします。
 
 ### 3. 「Choose account type（アカウントのタイプを選択する）」画面になったら、「CREATE AN ADULT ACCOUNT（大人のアカウントを作成する）」ボタンを押してください。
