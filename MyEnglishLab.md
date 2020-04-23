@@ -1,5 +1,5 @@
-# MyEnglishLabへの登録方法（manaba版）
-MyEnglishLabへの登録方法です。通信量に制限のある人は、こちらを閲覧してください。（文中の画像は省略してあります。）
+# MyEnglishLabへの登録方法（Github版）
+MyEnglishLabへの登録方法です。通信量に制限のある人は、こちらを閲覧してください。
 
 ---
 
