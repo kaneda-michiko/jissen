@@ -114,4 +114,4 @@ https://english-dashboard.pearson.com/ をお気に入りやホーム画面に�
 
 分からないことや、うまく行かないことがあったら、すぐに金田迪子（kaneda-michiko@jissen.ac.jp）にメールで相談して下さい。
 
-2020年4月24日　Ver.1 公開
+2020年4月24日　Ver. 1 公開
